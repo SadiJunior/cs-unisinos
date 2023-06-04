@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cor
+comment1.params=
+comment1.target=Cor()
+comment2.params=r\ g\ b
+comment2.target=Cor(int,\ int,\ int)
+comment3.params=
+comment3.target=int\ getRed()
+comment4.params=r
+comment4.target=void\ setRed(int)
+comment5.params=
+comment5.target=int\ getGreen()
+comment6.params=g
+comment6.target=void\ setGreen(int)
+comment7.params=
+comment7.target=int\ getBlue()
+comment8.params=b
+comment8.target=void\ setBlue(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

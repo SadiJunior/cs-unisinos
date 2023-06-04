@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lampada
+comment1.params=
+comment1.target=Lampada()
+comment2.params=estaLigada
+comment2.target=Lampada(java.lang.Boolean)
+comment3.params=
+comment3.target=java.lang.Boolean\ getEstaLigada()
+comment4.params=estaLigada
+comment4.target=void\ setEstaLigada(java.lang.Boolean)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
