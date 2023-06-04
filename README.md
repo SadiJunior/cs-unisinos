@@ -3,7 +3,7 @@
 This repository aims to centralize the projects that are done throughout the Computer Science degree at Unisinos.
 The projects whose names are dates were carried out in the face-to-face classes.
 
-## Algoritmos e Programação: Fundamentos
+## Algorithms & Programming: Fundamentals
 
 This class is an introduction to programming.
 
