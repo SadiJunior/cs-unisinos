@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Antigo
+comment1.params=titulo\ autor\ preco\ anoDeCriacao\ numDaEdicao
+comment1.target=Antigo(java.lang.String,\ java.lang.String,\ double,\ int,\ int)
+comment2.params=
+comment2.target=int\ getNumDaEdicao()
+comment3.params=numDaEdicao
+comment3.target=void\ setNumDaEdicao(int)
+numComments=4

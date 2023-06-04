@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Novo
+comment1.params=titulo\ autor\ preco\ anoDeCriacao\ valorDeDesconto
+comment1.target=Novo(java.lang.String,\ java.lang.String,\ double,\ int,\ double)
+comment2.params=
+comment2.target=double\ getValorDeDesconto()
+comment3.params=valorDeDesconto
+comment3.target=void\ setValorDeDesconto(double)
+numComments=4

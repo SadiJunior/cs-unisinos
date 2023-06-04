@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Livro
+comment1.params=
+comment1.target=Livro()
+comment10.params=anoDeCriacao
+comment10.target=void\ setAnoDeCriacao(int)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=titulo\ autor\ preco\ anoDeCriacao
+comment2.target=Livro(java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getTitulo()
+comment4.params=titulo
+comment4.target=void\ setTitulo(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getAutor()
+comment6.params=autor
+comment6.target=void\ setAutor(java.lang.String)
+comment7.params=
+comment7.target=double\ getPreco()
+comment8.params=preco
+comment8.target=void\ setPreco(double)
+comment9.params=
+comment9.target=int\ getAnoDeCriacao()
+numComments=12
