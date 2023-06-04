@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=min\ max
+comment2.target=int\ pegaIntAleatorioEntre(int,\ int)
+comment2.text=\r\n\ Pega\ um\ inteiro\ aleat\u00F3rio\ entre\ os\ argumentos\ min\ e\ max.\r\n\ \r\n\ @param\ \ min\ \ O\ limite\ m\u00EDnimo.\r\n\ @param\ \ max\ \ O\ limite\ m\u00E1ximo.\r\n\ @return\ \ \ \ \ \ Um\ n\u00FAmero\ aleat\u00F3rio\ entre\ min\ e\ max.\ \ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ pegaNomeAleatorio()
+numComments=4
